@@ -1,15 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 60" width="420" height="60" role="img" aria-label="RoleColorFinder style outcomes: Yellow, Red, Green, Blue">
-  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
-    <rect x="6" y="10" width="92" height="40" rx="8" fill="#F2C94C" stroke="#88888880" stroke-width="1"/>
-    <text x="52" y="34" text-anchor="middle" fill="#1a1a1a">Yellow</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 64" width="440" height="64" role="img" aria-label="RoleColorFinder style outcomes: Yellow, Red, Green, Blue">
+  <defs>
+    <linearGradient id="rcf-yellow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFCC00"/>
+      <stop offset="100%" stop-color="#B38F00"/>
+    </linearGradient>
+    <linearGradient id="rcf-red" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EF4343"/>
+      <stop offset="100%" stop-color="#BC1010"/>
+    </linearGradient>
+    <linearGradient id="rcf-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16A249"/>
+      <stop offset="100%" stop-color="#0F7033"/>
+    </linearGradient>
+    <linearGradient id="rcf-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3C83F6"/>
+      <stop offset="100%" stop-color="#0950C3"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Poppins, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="6" y="8" width="96" height="42" rx="12" fill="url(#rcf-yellow)"/>
+    <text x="54" y="34" text-anchor="middle" fill="#141414">Yellow</text>
 
-    <rect x="110" y="10" width="92" height="40" rx="8" fill="#EB5757" stroke="#88888880" stroke-width="1"/>
-    <text x="156" y="34" text-anchor="middle" fill="#ffffff">Red</text>
+    <rect x="114" y="8" width="96" height="42" rx="12" fill="url(#rcf-red)"/>
+    <text x="162" y="34" text-anchor="middle" fill="#ffffff">Red</text>
 
-    <rect x="214" y="10" width="92" height="40" rx="8" fill="#27AE60" stroke="#88888880" stroke-width="1"/>
-    <text x="260" y="34" text-anchor="middle" fill="#ffffff">Green</text>
+    <rect x="222" y="8" width="96" height="42" rx="12" fill="url(#rcf-green)"/>
+    <text x="270" y="34" text-anchor="middle" fill="#ffffff">Green</text>
 
-    <rect x="318" y="10" width="92" height="40" rx="8" fill="#2F80ED" stroke="#88888880" stroke-width="1"/>
-    <text x="364" y="34" text-anchor="middle" fill="#ffffff">Blue</text>
+    <rect x="330" y="8" width="96" height="42" rx="12" fill="url(#rcf-blue)"/>
+    <text x="378" y="34" text-anchor="middle" fill="#ffffff">Blue</text>
   </g>
 </svg>
