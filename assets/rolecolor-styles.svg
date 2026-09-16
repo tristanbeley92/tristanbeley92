@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 60" width="420" height="60" role="img" aria-label="RoleColorFinder style outcomes: Yellow, Red, Green, Blue">
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="6" y="10" width="92" height="40" rx="8" fill="#F2C94C" stroke="#88888880" stroke-width="1"/>
+    <text x="52" y="34" text-anchor="middle" fill="#1a1a1a">Yellow</text>
+
+    <rect x="110" y="10" width="92" height="40" rx="8" fill="#EB5757" stroke="#88888880" stroke-width="1"/>
+    <text x="156" y="34" text-anchor="middle" fill="#ffffff">Red</text>
+
+    <rect x="214" y="10" width="92" height="40" rx="8" fill="#27AE60" stroke="#88888880" stroke-width="1"/>
+    <text x="260" y="34" text-anchor="middle" fill="#ffffff">Green</text>
+
+    <rect x="318" y="10" width="92" height="40" rx="8" fill="#2F80ED" stroke="#88888880" stroke-width="1"/>
+    <text x="364" y="34" text-anchor="middle" fill="#ffffff">Blue</text>
+  </g>
+</svg>
