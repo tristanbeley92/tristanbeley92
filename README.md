@@ -45,6 +45,8 @@ Built in 36 hours with a team of four at HackWestern 12. It turns a selfie into 
 **What problem did this solve:** Personalized nutrition guidance is usually locked behind a dietitian or a paid app. This gives anyone a free, fast read on visible nutritional gaps and a meal plan that actually fits their budget.
 
 **Tech:** React, TypeScript, Google Gemini 2.5 Flash, DigitalOcean Gradient AI
+
+**Check It Out!**
 [Repo](https://github.com/ZElnagar/HackWestern12) · [Live demo](https://nutriscans.tech)
 
 </td>
@@ -59,6 +61,8 @@ A 3D game built with a team of five as a course project, developed in Unity with
 **What problem did this solve:** Less a real-world problem than a proof of skill — it demonstrates 3D gameplay programming, physics, and shipping a finished build as a team under an academic deadline.
 
 **Tech:** Unity, C#
+
+**Check It Out!**
 [Repo](https://github.com/AlexandraLHeureuxECE/final-project-thefellowship) *(team project, hosted under a teammate's account)*
 
 </td>
@@ -66,7 +70,7 @@ A 3D game built with a team of five as a course project, developed in Unity with
 <tr>
 <td width="50%" valign="top">
 
-### open-cam-lab
+### Open-Cam Face Detecion
 
 A real-time face detection and emotion-recognition web app, originally built for a frontend take-home challenge. Streams webcam video in the browser, draws bounding boxes across multiple detected faces, and surfaces periodic emotion reads alongside support for static image uploads.
 
@@ -75,6 +79,8 @@ A real-time face detection and emotion-recognition web app, originally built for
 **What problem did this solve:** A take-home is often the only concrete signal a hiring team gets before an interview, so this was built to prove out real-time, multi-face computer vision in the browser under a tight turnaround.
 
 **Tech:** React, TypeScript, face-api.js, Redux Toolkit, Vite
+
+**Check It Out!**
 [Repo](https://github.com/tristanbeley92/open-cam-lab)
 
 </td>
@@ -89,6 +95,8 @@ A Python tool that builds Spotify playlists using Spotify's public Web API.
 **What problem did this solve:** Automates playlist creation so I can generate a full playlist from a set of inputs in seconds instead of curating it manually.
 
 **Tech:** Python, Spotify Web API
+
+**Check It Out!**
 [Repo](https://github.com/tristanbeley92/PlaylistGenerator)
 
 </td>
