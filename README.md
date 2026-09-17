@@ -47,7 +47,7 @@ Built in 36 hours with a team of four at HackWestern 12. It turns a selfie into 
 **Tech:** React, TypeScript, Google Gemini 2.5 Flash, DigitalOcean Gradient AI
 
 **Check It Out!**
-[Repo](https://github.com/ZElnagar/HackWestern12) · [Live demo](https://nutriscans.tech)
+[Repo](https://github.com/ZElnagar/HackWestern12) · [Live demo](https://zelnagar.github.io/HackWestern12/)
 
 </td>
 <td width="50%" valign="top">
