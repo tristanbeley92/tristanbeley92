@@ -20,7 +20,7 @@ Away from the keyboard, you'll usually find me working on cars or working out.
 
 ### 🐐 G.A.R.Y the Goat: Go Anywhere, Rediscover Yourself
 
-A pocket mountain goat you wear, who only grows when you go outside. A camera on your cap looks where you look. Press the button on your strap and a Raspberry Pi 5 in your pack, running **QNX**, names what it sees right on the device: no cloud, and no photo stored or sent. Gary beeps, talks back through a speaker, logs the find, clears fog on the map and levels up. Built in 36 hours with a team of four at Hack Western 13.
+A pocket mountain goat you wear, who only grows when you go outside. A camera on your cap looks where you look. Press the button on your strap and a Raspberry Pi 5 in your pack, running **QNX**, names what it sees right on the device: no cloud, and no photo stored or sent. Gary beeps, talks back through a speaker, logs the find, clears fog on the map and levels up. Built in 36 hours with a team of four at Hack Western 13, where we placed **4th of 36 teams in the QNX challenge**.
 
 **The hardware**
 - **Raspberry Pi 5 on QNX 8.0**, with Gary's vision written in C++ (OpenCV and TensorFlow Lite)
