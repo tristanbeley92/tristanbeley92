@@ -16,6 +16,29 @@ Away from the keyboard, you'll usually find me working on cars or working out.
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🐐 G.A.R.Y the Goat: Go Anywhere, Rediscover Yourself
+
+A pocket mountain goat you wear, who only grows when you go outside. A camera on your cap looks where you look. Press the button on your strap and a Raspberry Pi 5 in your pack, running **QNX**, names what it sees right on the device: no cloud, and no photo stored or sent. Gary beeps, talks back through a speaker, logs the find, clears fog on the map and levels up. Built in 36 hours with a team of four at Hack Western 13.
+
+**The hardware**
+- **Raspberry Pi 5 on QNX 8.0**, with Gary's vision written in C++ (OpenCV and TensorFlow Lite)
+- **Two models on every frame**: an SSD for everyday things and people, and a YOLOv8s trained on Open Images for nature. 90 things, from squirrels and ducks to deer, at **3.5 fps, with a button press answered in about 170 ms**
+- **Logitech C270 webcam** clipped to a cap brim. Its built-in mic lets you say "Go Gary, what am I looking at?"
+- **Hand signals**: hold a thumbs up or an OK sign up to the camera, then lower your hand, and Gary sniffs. Two MediaPipe hand models and plain rules on 21 hand points, in both the C++ and Python versions
+- **Grove button and buzzer** on a Base HAT (sockets D5 and D16), with good, bad and unsure beep patterns timed into Gary's voice
+- **USB speaker and power bank** in a hip pack, with the phone hotspot carrying the Pi's finds to the server
+
+**Behind it:** a TinyFish web agent reads live London park, trail and event pages each morning and turns real places into quests. Talking to Gary runs on Gemini and ElevenLabs. The backend is FastAPI on Vultr with Tiger Data (Postgres), and the front end is a React "Pocket Pixel" handheld.
+
+**Tech:** QNX, C++, Python, OpenCV, TensorFlow Lite, FastAPI, React, TinyFish, Gemini, ElevenLabs, Tiger Data, Vultr
+
+[Live](https://goatside.fit) · [Repo](https://github.com/anaybaid7/hackwestern13-gary) · [Devpost](https://devpost.com/software/gary-the-goat)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### NutriScan AI
